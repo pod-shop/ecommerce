@@ -1,0 +1,21 @@
+export const ES = {
+  accept: 'Si',
+  reject: 'No',
+  choose: 'Elige',
+  upload: 'Cargar',
+  cancel: 'Cancelar',
+  dayNames: ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'],
+  dayNamesShort: ['Dom', 'Lun', 'Mar', 'Mie', 'Jue', 'Vie', 'Sab'],
+  dayNamesMin: ['D', 'L', 'M', 'X', 'J', 'V', 'S'],
+  monthNames: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'],
+  monthNamesShort: ['Ene', 'Feb', 'Mar', 'Abr', 'May', 'Jun', 'Jul', 'Ago', 'Sep', 'Oct', 'Nov', 'Dic'],
+  today: 'Hoy',
+  clear: 'Limpiar',
+  weekHeader: 'Sem',
+  firstDayOfWeek: 0,
+  dateFormat: 'dd/mm/yy',
+  weak: 'Semana',
+  medium: 'Medio',
+  strong: 'Fuerte',
+  passwordPrompt: 'Ingrese una contraseña'
+}
